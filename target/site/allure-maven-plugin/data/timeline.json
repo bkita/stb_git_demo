@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BTX",
+    "children" : [ {
+      "name" : "36626@BTX.main(1)",
+      "children" : [ {
+        "name" : "readAllUsers()",
+        "uid" : "cf0991dbb9ac81a6",
+        "parentUid" : "029484ca6c15409576731e3309cb89cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586039212771,
+          "stop" : 1586039215374,
+          "duration" : 2603
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "029484ca6c15409576731e3309cb89cf"
+    } ],
+    "uid" : "ca3e533289b1c5d8298d30201c12898b"
+  } ]
+}

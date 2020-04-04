@@ -1,0 +1,61 @@
+{
+  "uid" : "9446266eb50dd7a4",
+  "name" : "readAllUsers()",
+  "fullName" : "GetTest.readAllUsers",
+  "historyId" : "b8384ac2517f96665b48c5513e32449e",
+  "time" : {
+    "start" : 1586039163125,
+    "stop" : 1586039167664,
+    "duration" : 4539
+  },
+  "description" : "",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "BTX"
+  }, {
+    "name" : "thread",
+    "value" : "36279@BTX.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "GetTest"
+  }, {
+    "name" : "testClass",
+    "value" : "GetTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "readAllUsers"
+  }, {
+    "name" : "suite",
+    "value" : "GetTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "9446266eb50dd7a4.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "empty" : true,
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

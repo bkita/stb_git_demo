@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "readAllUsers()",
+    "uid" : "cf0991dbb9ac81a6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1586039212771,
+      "stop" : 1586039215374,
+      "duration" : 2603
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
